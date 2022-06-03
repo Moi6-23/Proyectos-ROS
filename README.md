@@ -5,7 +5,7 @@
 ### 3. Tracking camara ROS - Arduino
 
 ### Para estos trabajos se recomienda instalar Ubuntu 16.04 y ROS versión Kinetic, ya que más adelante en la instalación de demás dependencias puede generar conflictos.
-### Estos proyectos y documentación han sido desarrollados como parte del Curso de ROS impartido por parte del Ingeníero Hernán Hernández con usuario de github herohernan
+### Estos proyectos y documentación han sido desarrollados como parte del Curso de ROS impartido por parte del Ingeníero Hernán Hernández con usuario de github herohernan https://github.com/herohernan
 
 # 1. IROBOT_CREATE
 #### En este primer proyecto se explicará como controlar un irobot create por medio de ROS
